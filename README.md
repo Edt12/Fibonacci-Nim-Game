@@ -5,7 +5,7 @@ A command line game based of the Fibonacci Nim
 
 Input error checking
 
-Enforces rules of Fibonacci Nim game (see wikepedia https://en.wikipedia.org/wiki/Fibonacci_nim#Strategy)
+Enforces rules of Fibonacci Nim game (see wikepedia [https://en.wikipedia.org/wiki/Fibonacci_nim#Strategy])
 
 **ScreenShots**
 A Typical Game 
